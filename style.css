@@ -20,6 +20,7 @@ button{
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.485);
     transition: opacity 0.5s ease;
     opacity: 0;
+    background: linear-gradient(to bottom, #1B263B, #415A77);
 }
 #dataContainer{
     background-color: skyblue;
